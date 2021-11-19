@@ -1,0 +1,12 @@
+name = "BenchmarkToolsMPI"
+uuid = "4c02afcf-34cc-4e01-93a8-5aa60cda15a3"
+authors = ["John Omotani <john.omotani@ukaea.uk>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
+[compat]
+BenchmarkTools = "1.2.0"
